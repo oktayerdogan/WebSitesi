@@ -1,0 +1,26 @@
+.navbar{
+   background-color: #27445D !important; 
+}
+.navbar-brand i{
+    color:#EFE9D5;
+}
+.navbar-link{
+    color: #EFE9D5;
+}
+.bg-dark{
+    background-color: #27445D !important;
+}
+.nav-link {
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+ 
+
+  .nav-link.active {
+    font-weight: bold;
+  }
+  
+  #map{
+    height: 100%;
+  }
